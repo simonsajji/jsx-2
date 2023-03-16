@@ -1,7 +1,7 @@
 {
   "name": "jsx-2",
   "version": "0.1.0",
-  "homepage": "https://simonsajji.github.io/jsx-2",
+  "homepage": "https://simonsajji.github.io/fs-o4-assignment-05",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.6",
