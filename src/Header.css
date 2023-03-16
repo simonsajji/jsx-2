@@ -1,0 +1,42 @@
+.Header{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+
+
+
+}
+
+.d-flex{
+    display: flex;
+
+}
+
+.logo{
+    padding: 10px;
+}
+
+.j-space-around{
+    justify-content: space-around;
+}
+
+.nav-item-ctn{
+    width: 30%;
+}
+
+.nav-item-ctn > div{
+    background-color:white ;
+    padding: 10px;
+    color:black;
+}
+
+.active{
+    border: 0.01rem solid rebeccapurple;
+    border-radius: 5px;
+    background-color:rebeccapurple!important ;
+    padding: 10px;
+    color:white!important;
+    font-weight: 500;
+}

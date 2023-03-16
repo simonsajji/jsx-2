@@ -1,13 +1,7 @@
 .App {
-  text-align: center;
-  background-color: var(--bg);
   height: 100vh;
   width: 100%;
-  color: white;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
+
 }
 
 h1{
@@ -16,4 +10,19 @@ h1{
 
 p{
   font-size: 25px;
+}
+
+.d-flex{
+  display: flex;
+
+}
+
+
+
+.j-space-around{
+  justify-content: space-around;
+}
+
+.flex-start{
+  justify-content: flex-start;
 }
