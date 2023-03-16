@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/jsx-2/static/css/main.ddcf0b0b.css",
-    "main.js": "/jsx-2/static/js/main.87be54cc.js",
+    "main.css": "/jsx-2/static/css/main.24098c5f.css",
+    "main.js": "/jsx-2/static/js/main.6f2fa250.js",
     "static/js/787.42651733.chunk.js": "/jsx-2/static/js/787.42651733.chunk.js",
-    "static/media/pngkey.com-airbnb-logo-png-606047.png": "/jsx-2/static/media/pngkey.com-airbnb-logo-png-606047.759ede27e49d365fa85f.png",
     "index.html": "/jsx-2/index.html",
-    "main.ddcf0b0b.css.map": "/jsx-2/static/css/main.ddcf0b0b.css.map",
-    "main.87be54cc.js.map": "/jsx-2/static/js/main.87be54cc.js.map",
+    "main.24098c5f.css.map": "/jsx-2/static/css/main.24098c5f.css.map",
+    "main.6f2fa250.js.map": "/jsx-2/static/js/main.6f2fa250.js.map",
     "787.42651733.chunk.js.map": "/jsx-2/static/js/787.42651733.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ddcf0b0b.css",
-    "static/js/main.87be54cc.js"
+    "static/css/main.24098c5f.css",
+    "static/js/main.6f2fa250.js"
   ]
 }
